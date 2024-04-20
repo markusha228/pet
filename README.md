@@ -1,6 +1,6 @@
 <html>
+  <title>Проект на тему:мій домашній улюбленець</title>
   <head>
-   
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body style ="background:lightgray;font-family:sans-serif">
